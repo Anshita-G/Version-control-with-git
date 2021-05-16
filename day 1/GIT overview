@@ -1,0 +1,32 @@
+*************************************************************************************************************************************************************************
+REVIEW
+**Version control enables teams to manage a project in an agile way **
+** GIT IS A DVAC **
+** A repository contains project history as commits **
+** A commit is snapshot of entire project at that time ** 
+
+1.VERSION CONTROL
+>>Content--complete history is trackable & available
+>> Teams-- Support many workflows -- collaborations -- quality through team communication & teams
+>> Agility -- Manages small changes -- easily test -- fix or undo ideas and changes
+
+-->content that needs to be managed to version control --
+--source code --automated test --server configurations --website content
+
+2.DISTRUBITUED VERSION CONTROL SYSTEM
+>>Contaning local repository and remote repository
+>>REPOSITORY is the entire history of the project 
+>> can work offline
+>> Easily synchronization
+
+2.Git Overview
+>>Open Source software (OCC)
+>>Adapts to project & workflows 
+>>GIT Repository 
+Contains a series of snapshot of project over time
+
+3. COMMMAND LINE VS USER INTERFACE 
+CLI-- Automated 
+GUI -- SorceTree
+
+*************************************************************************************************************************************************************************
