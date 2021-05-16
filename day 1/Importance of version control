@@ -1,0 +1,31 @@
+*************************************************************************************************************************************************************************
+OVERVIEW--
+**Continous Improvement--COMMIT **
+**Simultaneos stability and developments -- BRANCH **
+**Improved Quality -- PULL REQUESTS **
+1. CONTINOUS IMPROVEMENT
+>Plan ,build and release small improvement
+>Small batch size -leads to continous improvement --applies to feature
+
+2.MANAGING PROJECT VERSIONS
+>Each version of a product is called COMMIT.
+>Each commit is a SNAPSHOT of the entire project.
+>Each unique file is stored only ones.
+
+--> Collection of commits =HISTORY of project -review history --undo previous changes(commit)
+ 
+3.BRANCHES
+>All commits belong to a single branch.
+>BRANCH-- An independent line of development of the project 
+> DEFAULT= only one branch -MASTER branch
+
+>SEPERATING BRANCH - A seperate branch which is a sub part of master branch -- only changes made to branch are reflected in tha branch only not master branch 
+>independence of branch allows scale of work
+
+4. PULL REQUESTS-
+> A pull request is a request for others to review and approve the changes made to the project in a branch
+>pull request accepted--> becomes part of master branch last commit
+
+-->MERGING- Seperate branch adding to master branch--a merge combines te work of seperate branch
+
+*************************************************************************************************************************************************************************
